@@ -20,7 +20,7 @@ Additional parts:
 To computer control the motors we use an Arduino MEGA with sensor shield, as described here - https://github.com/HorkeLab/arduino_28BYJ-48
 
 # Printing and assembly instructions
-We have printed these in PETG, but PLA should also be fine. A well-calibrated printer is necessary to avoid excessive friction/stalling of the motors. Typically printed on 0.4mm nozzle, 0.2mm layer height, 15\% infill.
+We have printed these in PETG, but PLA should also be fine. A well-calibrated printer is necessary to avoid excessive friction/stalling of the motors. Typically printed on 0.4mm nozzle, 0.2mm layer height, 15\% infill. You might want to print the  alignment tool slightly larger (101\% worked for us).
 
 The large cog needs to be glued to the rotation mount. We recommend gluing it to the back side (i.e. the side that does not have the marked scale on it). It is very important that the cog is centred on the rotation mount. For this we use the alignment tool - first insert the mount into the alignment tool, apply superglue to the rotating surface, then insert the large cog (with the 'lip' facing down), as shown in the image below. Now put some heavy textbook on top and go have a coffee while the glue dries.
 
