@@ -13,9 +13,9 @@ Part that need to be printed are:
 - 1x Cog small
 
 Additional parts:
-1x 28BYJ-48 stepper motor
-1x superglue
-M3 fasteners 
+- 1x 28BYJ-48 stepper motor
+- 1x superglue
+- M3 fasteners 
 
 To computer control the motors we use an Arduino MEGA with sensor shield, as described here - https://github.com/HorkeLab/arduino_28BYJ-48
 
