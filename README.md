@@ -5,7 +5,7 @@ Here we provide both the 3D model, as well as .stl files of the individual parts
 
 ![CAD model of the mirror mount](images/CAD_model.PNG)
 
-Part that need to be printed are:
+Parts that need to be printed are:
 - 1x Alignment tool (only needed for assembly)
 - 1x Motor Mount
 - 1x Mount Bracket
